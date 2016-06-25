@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\shareSDKMainLibs\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    }
+]

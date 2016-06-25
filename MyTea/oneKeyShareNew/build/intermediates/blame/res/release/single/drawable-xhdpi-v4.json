@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_pinterest.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_pocket.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwang.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatmoments.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_qq.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_tencentweibo.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_line.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_vkontakte.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_flickr.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kaixin.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_check_default.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_foursquare.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_dropbox.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_sinaweibo.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_yixin.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_email.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_evernote.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_douban.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_linkedin.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_bluetooth.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_qzone.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_renren.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_instapaper.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaostory.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_mingdao.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_twitter.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_check_checked.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_facebook.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_youdao.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_wechat.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_kakaotalk.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_alipay.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_yixinmoments.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_shortmessage.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_whatsapp.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_instagram.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\exploded-aar\\MyTea\\shareSDKMainLibs\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_googleplus.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_oks_classic_tumblr.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    }
+]

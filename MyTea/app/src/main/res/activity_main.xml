@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="mobiletrain.org.d21_notification_actionbar.MainActivity">
+
+    <Button
+        android:id="@+id/btnSend_Normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送普通通知" />
+
+    <Button
+        android:id="@+id/btnSend_picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送图片通知" />
+
+    <Button
+        android:id="@+id/btnSend_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送进度通知" />
+    <Button
+        android:id="@+id/btnSend_Intent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送意图通知"
+        />
+
+</LinearLayout>

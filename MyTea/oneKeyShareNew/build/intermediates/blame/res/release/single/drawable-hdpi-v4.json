@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\android_studio_sdk\\AndroidStudioProjects\\MyTea\\oneKeyShareNew\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    }
+]
